@@ -1,0 +1,28 @@
+# Build output
+/build/
+
+# Compiled binaries
+*.so
+*.o
+*.a
+*.out
+
+# Debug symbols
+*.debug
+core
+core.*
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
